@@ -10,3 +10,7 @@ Este la pantalla para cuando la coordinadora seleccione un caso.
 <img width="780" alt="Captura de pantalla 2023-05-04 a la(s) 11 41 52 p m" src="https://user-images.githubusercontent.com/91341260/236385707-8cc8fc89-1ab0-4fd7-b446-ad5e5c8ce2d6.png">
 
 Pestaña de manejo de casos activos
+
+<img width="779" alt="Captura de pantalla 2023-05-04 a la(s) 11 42 23 p m" src="https://user-images.githubusercontent.com/91341260/236385922-77991715-df3c-4238-bef4-5e8c1b15006f.png">
+
+Ventana que aparece con la información de cada posible caso (oportunidad) a considerar
