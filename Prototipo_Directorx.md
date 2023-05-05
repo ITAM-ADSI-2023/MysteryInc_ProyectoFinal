@@ -9,3 +9,6 @@ formulario para crear una tarea derivado de la pestaña admin tareas para la dir
 
 pagina de oportunidades para registrar los casos que están en evaluacion para tomarse o no
 
+![image](https://user-images.githubusercontent.com/74739037/236379991-dca49866-7725-4700-9f92-59bdb2af87f4.png)
+
+pagina de creación de oportunidades 
