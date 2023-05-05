@@ -12,3 +12,7 @@ Nueva ventana que ayuda al usuario estudiante a visualizar el acceso que tiene a
 
 Es una pestaña que se abre al dar click en casos.
 Nos permite solicitar acceso a determinados expedientes, de esta forma podríamos tener información específica y tener el control de las personas que tienen acceso a la información
+
+![WhatsApp Image 2023-05-05 at 12 53 39 AM](https://user-images.githubusercontent.com/89903929/236468438-aa4e578a-de7d-4984-ba16-e0d1fead964a.jpeg)
+
+En esta ventana podemos visualizar el historial de solicitudes de acceso y sus respectivos estatus. Esta organizado por número de caso, fecha de solicitud, estatus y fecha de aceptación, por cada solicitud.
