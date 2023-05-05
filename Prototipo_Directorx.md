@@ -12,3 +12,9 @@ pagina de oportunidades para registrar los casos que están en evaluacion para t
 ![image](https://user-images.githubusercontent.com/74739037/236380333-d6ff159b-5519-40f0-8be3-6aa2920a53e6.png)
 
 pagina de creación de oportunidades 
+
+
+![image](https://user-images.githubusercontent.com/74739037/236383012-2c6c5cbe-7836-4961-9a99-b279ac96c00f.png)
+
+
+pagina del reporte general para las coordinadoras y directora
