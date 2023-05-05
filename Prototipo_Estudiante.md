@@ -7,3 +7,8 @@ Ventana de administración de tareas (con el sistema de semáforo que habíamos 
 ![WhatsApp Image 2023-05-05 at 12 51 48 AM](https://user-images.githubusercontent.com/89903929/236467305-86dfa46a-e3c6-4705-90f6-7a7d60b60d2a.jpeg)
 
 Nueva ventana que ayuda al usuario estudiante a visualizar el acceso que tiene a determinados archivos y solicitar a nuevos
+
+![WhatsApp Image 2023-05-05 at 12 52 37 AM](https://user-images.githubusercontent.com/89903929/236467850-34aaf697-2ccd-422b-af0c-e6bfc2ba98e0.jpeg)
+
+Es una pestaña que se abre al dar click en casos.
+Nos permite solicitar acceso a determinados expedientes, de esta forma podríamos tener información específica y tener el control de las personas que tienen acceso a la información
