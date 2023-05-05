@@ -14,3 +14,7 @@ Pestaña de manejo de casos activos
 <img width="779" alt="Captura de pantalla 2023-05-04 a la(s) 11 42 23 p m" src="https://user-images.githubusercontent.com/91341260/236385922-77991715-df3c-4238-bef4-5e8c1b15006f.png">
 
 Ventana que aparece con la información de cada posible caso (oportunidad) a considerar
+
+<img width="779" alt="Captura de pantalla 2023-05-04 a la(s) 11 42 43 p m" src="https://user-images.githubusercontent.com/91341260/236386164-86a7a434-a776-4289-8020-d4c7bd0533aa.png">
+
+Ventana que aparece cuando decides aceptar un caso de las oportunidades
