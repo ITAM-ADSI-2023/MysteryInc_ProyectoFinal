@@ -9,3 +9,7 @@ Podrán ver los casos que ellos tengan asignados, sus respectivas etapas y un es
 El administrado de tareas es vital porque informa al practicante qué tareas tiene pendiente con respecto a cada caso y sus fechas límite.
 
 <img width="824" alt="Screenshot 2023-05-05 at 1 59 54 AM" src="https://user-images.githubusercontent.com/123345341/236592104-3db16df5-c49a-46a2-80ec-e56abd15408b.png">
+
+El usuario usará esta pantalla para cambiar la contraseña. 
+
+<img width="854" alt="Screenshot 2023-05-05 at 2 09 18 AM" src="https://user-images.githubusercontent.com/123345341/236592170-e55e5e86-eaa9-488f-b304-75ab60446926.png">
