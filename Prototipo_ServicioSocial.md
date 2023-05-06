@@ -5,3 +5,7 @@ Los practicantes(servcicio social) tendrán un pantalla de inicio que visualice 
 Podrán ver los casos que ellos tengan asignados, sus respectivas etapas y un estatus que indica cómo va el desarrollo del caso.
 
 <img width="794" alt="Screenshot 2023-05-05 at 1 53 21 AM" src="https://user-images.githubusercontent.com/123345341/236592072-d81c13c2-e1a9-4870-b421-2e3ea5e26387.png">
+
+El administrado de tareas es vital porque informa al practicante qué tareas tiene pendiente con respecto a cada caso y sus fechas límite.
+
+<img width="824" alt="Screenshot 2023-05-05 at 1 59 54 AM" src="https://user-images.githubusercontent.com/123345341/236592104-3db16df5-c49a-46a2-80ec-e56abd15408b.png">
